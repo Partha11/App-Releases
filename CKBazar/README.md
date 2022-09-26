@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Partha11/App-Releases">
-    <img src="resources/logo/banner.png" alt="Logo" height="80">
+    <img src="resources/logo/logo.png" alt="Logo" height="80">
   </a>
 
   <h3 align="center">CKBazar E-Commerce</h3>
