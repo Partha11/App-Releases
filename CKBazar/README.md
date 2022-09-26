@@ -62,14 +62,14 @@ This application was developed using Java. Currently this project is being migra
 
 
 ### Screenshots
-<p float="middle">
+<p float="left">
     <img src="resources/screenshots/ss_1.png" alt="SS 1" width="32%"/>
     <img src="resources/screenshots/ss_2.png" alt="SS 2" width="32%"/>
     <img src="resources/screenshots/ss_3.png" alt="SS 3" width="32%"/>
 </p>
-<p>
+<p float="left">
     <img src="resources/screenshots/ss_4.png" alt="SS 4" width="32%"/>
-</p
+</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
