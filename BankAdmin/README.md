@@ -20,6 +20,7 @@
 <p float="middle">
     <img src="resources/screenshots/ss_1.png" alt="SS 1" width="240"/>
     <img src="resources/screenshots/ss_2.png" alt="SS 2" width="240"/>
+    <img src="resources/screenshots/ss_3.png" alt="SS 3" width="240"/>
 </p>
 
 ## Features
