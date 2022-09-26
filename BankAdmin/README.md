@@ -18,9 +18,9 @@
 - [Desugaring](https://developer.android.com/studio/write/java8-support-table) for Java 8 API support
 
 <p float="middle">
-    <img src="resources/screenshots/ss_1.png" alt="SS 1" width="240"/>
-    <img src="resources/screenshots/ss_2.png" alt="SS 2" width="240"/>
-    <img src="resources/screenshots/ss_3.png" alt="SS 3" width="240"/>
+    <img src="resources/screenshots/ss_1.png" alt="SS 1" width="32%"/>
+    <img src="resources/screenshots/ss_2.png" alt="SS 2" width="32%"/>
+    <img src="resources/screenshots/ss_3.png" alt="SS 3" width="32%"/>
 </p>
 
 ## Features
