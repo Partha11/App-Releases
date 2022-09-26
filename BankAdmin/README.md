@@ -17,8 +17,8 @@
 - Retrofit
 - [Desugaring](https://developer.android.com/studio/write/java8-support-table) for Java 8 API support
 
-<img src="resources/screenshots/ss_1.png" alt="SS 1"/>
-<img src="resources/screenshots/ss_2.png" alt="SS 2"/>
+<img src="resources/screenshots/ss_1.png" alt="SS 1" width="240"/>
+<img src="resources/screenshots/ss_2.png" alt="SS 2" width="240"/>
 
 ## Features
 - Transaction identification from multiple [MFS](https://businesshaunt.com/mobile-financial-services-mfs-in-bangladesh/)
