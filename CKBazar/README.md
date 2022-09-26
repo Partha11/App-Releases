@@ -10,7 +10,7 @@
     Just another e-commerce application
     <br />
     <br />
-    <a href="https://github.com/Partha11/App-Releases/CKBazar/releases">View Demo</a>
+    <a href="https://github.com/Partha11/App-Releases/tree/master/CKBazar/releases">View Demo</a>
     ·
     <a href="https://github.com/Partha11/App-Releases/issues">Report Bug</a>
     ·
