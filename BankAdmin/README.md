@@ -1,6 +1,6 @@
 <img src="resources/logo/logo.png" alt="App Logo"/>
 
-## Clean architecture using MVVM architecture
+## Structure
 - Model (for database, API and preferences)
 - View (for UI logic, with DataBinding)
 - ViewModel (for business logic)
@@ -15,7 +15,16 @@
 - Kotlin Coroutines
 - Room Database for offline capabilities
 - Retrofit
-- [Desugaring](https://developer.android.com/studio/write/java8-support-table) for Java 8 API supports
-- Resource defaults
-    - themes.xml - app themes
-    - colors.xml - colors for the entire project
+- [Desugaring](https://developer.android.com/studio/write/java8-support-table) for Java 8 API support
+
+<img src="resources/screenshots/ss_1.png" alt="SS 1"/>
+<img src="resources/screenshots/ss_2.png" alt="SS 2"/>
+
+## Features
+- Transaction identification from multiple [MFS](https://businesshaunt.com/mobile-financial-services-mfs-in-bangladesh/)
+- Transaction validation
+- Providing users with an option to verify their payment
+- Insights on daily/monthly transactions
+- Can be connected with any E-Commerce website
+- Coroutines and Workers for handling CPU intensive tasks, creating smoother UX
+- Capable of notifying users, update product prices
