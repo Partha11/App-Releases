@@ -1,4 +1,4 @@
-<img src="resources/logo/logo.png" alt="App Logo"/>
+<img src="resources/logo/banner.png" alt="App Logo"/>
 
 ## Structure
 - Model (for database, API and preferences)
