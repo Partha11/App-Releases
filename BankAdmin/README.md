@@ -17,6 +17,7 @@
 - Retrofit
 - [Desugaring](https://developer.android.com/studio/write/java8-support-table) for Java 8 API support
 
+## Screenshots
 <p float="middle">
     <img src="resources/screenshots/ss_1.png" alt="SS 1" width="32%"/>
     <img src="resources/screenshots/ss_2.png" alt="SS 2" width="32%"/>
@@ -31,3 +32,4 @@
 - Can be connected with any E-Commerce website
 - Coroutines and Workers for handling CPU intensive tasks, creating smoother UX
 - Capable of notifying users, update product prices
+- Contains feature for referral system and more
