@@ -1,4 +1,4 @@
-<img src="app/src/main/res/drawable/app_logo.png" alt="App Logo"/>
+<img src="resources/logo/logo.png" alt="App Logo"/>
 
 ## Clean architecture using MVVM architecture
 - Model (for database, API and preferences)
